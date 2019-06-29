@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:53 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;We got engaged!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>... she said yes!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>News travels fast on facebook... only hours after changing ones relationship status the whole world seems to know! &#xD;&#xD;We are very happy... and now planning the nuptials...</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, October 7, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_..._she_said_yes%21_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

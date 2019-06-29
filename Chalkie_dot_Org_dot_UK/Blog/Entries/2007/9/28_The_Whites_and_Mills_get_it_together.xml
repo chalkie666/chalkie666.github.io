@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:40 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Whites and Mills get it together</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The deed is done, by a little old french bloke in the picturesque 11th C catalan village of Castelnou. 160 guests from England, Finland, Scotland, USA, Germany, France ...&#xD;enjoyed the 2 days of festivities, the great weather and local food and booze. A fab time had by all. Then on to Morocco for the honeymoon and chance to relax, read some books, and take in the scenery of the High Atlas and the Sahara. I drove there and back Dresden-Perpignan, which took about 13 h each way, carrying amplifiers and flashing disco lights for the party. Quite a good drive, and in the new car, it wasn&#x2019;t so tiring. Still, flying is cheaper and faster! It was great to see all the old faces from past eras, and get the families together for some fun. Oh, and Suzie looked lovely!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, September 28, 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_The_Whites_and_Mills_get_it_together_files/shapeimage_2.png" left="0px" top="0px" width="406px" height="446px"/>
+</content>

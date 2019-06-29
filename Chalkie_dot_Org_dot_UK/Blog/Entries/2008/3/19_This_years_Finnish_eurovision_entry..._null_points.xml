@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:41 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>This year&#x2019;s Finnish eurovision entry...        null points?</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>During my trip around europe, after my mate Ian&#x2019;s nuptials in the smoke, and having had my laser eye surgery done (highly recommended by the way for al those myopics), I found myself with Wes in Helsinki at the Terasbetoni concert at the famous Tavista club. &#xD;&#xD;Naked from the waist up, Terasbetoni are this year&#x2019;s Finnish eurovision entry. Only in Finland. Not quite as silly as Lordi, but not far off. Think of a cross between Iron Maiden, Manowar and Nightwish (minus the bird, but still with squealing vocals from the diminutive bassist) and you are about there. Songs about riding off to victory on your horse, and drinking yourself to death. All very in tune with Finnish sensibilities. But, due to the intractable Finnish language, the irony and humour (well, at least I hope they aren&#x2019;t taking themselves too seriously)  are entirely lost on an non Finnish audience. &#xD;&#xD;Anyway, a pretty good show all the same, and the crowd seemed to enjoy it, even though it was a week night and there was no warm up act. &#xD;&#xD;As for eurovision... I think the success of Lordi will not be repeated this time. But then, you never know. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, March 19, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_This_years_Finnish_eurovision_entry..._null_points_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

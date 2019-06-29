@@ -1,0 +1,11 @@
+// Created by iWeb 3.0.4 local-build-20140518
+
+setTransparentGifURL('Media/transparent.gif');function applyEffects()
+{var registry=IWCreateEffectRegistry();registry.registerEffects({shadow_1:new IWShadow({blurRadius:5,offset:new IWPoint(-1.4863,1.3383),color:'#000000',opacity:0.500000}),shadow_2:new IWShadow({blurRadius:5,offset:new IWPoint(-1.4863,1.3383),color:'#000000',opacity:0.500000}),shadow_4:new IWShadow({blurRadius:5,offset:new IWPoint(-1.4863,1.3383),color:'#000000',opacity:0.500000}),stroke_0:new IWStrokeParts([{rect:new IWRect(-3,3,6,447),url:'Penguins_files/stroke.png'},{rect:new IWRect(-3,-3,6,6),url:'Penguins_files/stroke_1.png'},{rect:new IWRect(3,-3,326,6),url:'Penguins_files/stroke_2.png'},{rect:new IWRect(329,-3,7,6),url:'Penguins_files/stroke_3.png'},{rect:new IWRect(329,3,7,447),url:'Penguins_files/stroke_4.png'},{rect:new IWRect(329,450,7,6),url:'Penguins_files/stroke_5.png'},{rect:new IWRect(3,450,326,6),url:'Penguins_files/stroke_6.png'},{rect:new IWRect(-3,450,6,6),url:'Penguins_files/stroke_7.png'}],new IWSize(332,453)),shadow_0:new IWShadow({blurRadius:5,offset:new IWPoint(-1.4863,1.3383),color:'#000000',opacity:0.500000}),shadow_5:new IWShadow({blurRadius:5,offset:new IWPoint(-1.4863,1.3383),color:'#000000',opacity:0.500000}),shadow_6:new IWShadow({blurRadius:5,offset:new IWPoint(-1.4863,1.3383),color:'#000000',opacity:0.500000}),shadow_7:new IWShadow({blurRadius:5,offset:new IWPoint(-1.4863,1.3383),color:'#000000',opacity:0.500000}),shadow_8:new IWShadow({blurRadius:5,offset:new IWPoint(-1.4863,1.3383),color:'#000000',opacity:0.500000}),shadow_9:new IWShadow({blurRadius:5,offset:new IWPoint(-1.4863,1.3383),color:'#000000',opacity:0.500000}),shadow_3:new IWShadow({blurRadius:5,offset:new IWPoint(-1.4863,1.3383),color:'#000000',opacity:0.500000})});registry.applyEffects();}
+function hostedOnDM()
+{return false;}
+function onPageLoad()
+{loadMozillaCSS('Penguins_files/PenguinsMoz.css')
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');Widget.onload();fixAllIEPNGs('Media/transparent.gif');fixupIECSS3Opacity('id3');applyEffects()}
+function onPageUnload()
+{Widget.onunload();}

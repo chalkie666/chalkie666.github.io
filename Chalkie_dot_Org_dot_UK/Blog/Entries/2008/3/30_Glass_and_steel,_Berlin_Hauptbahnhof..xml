@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:42 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Glass and steel, Berlin Hauptbahnhof. </richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>On the way home from Finland, I found myself waiting for the train home to Dresden in the new Berlin main train station. And an impressive building it is indeed. Trains on two (or even more?) levels, and a multitude of shopping possibilities. The green glass and steel architecture and sheer size of the place makes it something of a modern cathedral to consumerism and transport. Pity about the naff DB sign stuck on the otherwise attractive pillar on the left. &#xD;&#xD;The ticket machine was extremely high tech, involving printing out a bar code and then scanning it into the payment machine. That would fox most people over 40, but there was also a human to buy them from, so that was OK. I also had a tasty chinese meal in the asian food place, and a quick wander outside to see the Reichstag and Swiss embassy, and the river boats doing their stuff. &#xD;&#xD;All rather surprisingly pleasant. Why isn&#x2019;t Wakefield station like that. Wakefield station is a thoroughly miserable place. Perhaps not as bad as Birmingham New Street, or worse still, Digbeth Coach Station, but miserable all the same. All they&#x2019;ve got at Wakefield station is that crap &#x201C;waves sculpture&#x201D; that in reality is just a few planks of 2x4 leaning against a wall. I suppose Berlin is somewhat larger and infinitely cooler than... ummm.... Wakefield. &#xD;&#xD;Theoretical fist fight:&#xD;Berlin Hauptbahnhof vs. London St. Pancras International Eurostar Terminal.&#xD;Who wins?&#xD;Answers on a post card to Dan at blah blah blah......</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, March 30, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Glass_and_steel,_Berlin_Hauptbahnhof._files/shapeimage_2.png" left="0px" top="0px" width="536px" height="291px"/>
+</content>

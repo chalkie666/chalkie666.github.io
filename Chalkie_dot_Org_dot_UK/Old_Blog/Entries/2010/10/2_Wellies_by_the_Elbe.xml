@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140701" date="2014-07-01 20:30:05 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;New Wellies!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Wellies by the Elbe</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I haven&#x2019;t owned wellies since I was a kid. This appalling situation has been rectified, and now I can walk in the mud of the flooded river banks at will! Fab!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, October 2, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Wellies_by_the_Elbe_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

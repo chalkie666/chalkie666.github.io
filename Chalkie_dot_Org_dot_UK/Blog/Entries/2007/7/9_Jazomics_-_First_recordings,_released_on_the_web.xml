@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:40 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Jazomics - First recordings, released on the web</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We, the Jazzomics, a ragtagle conglomeration of anisotropic jazz tomfoolery, recorded some tracks. It&#x2019;s a bit loose to say the least, but we had fun doing it. A bunch of kids from the international school in Dresden were there to help us out for the first couple of tracks, notably &#x201C;Back to Texas&#x201D; - fully improvised, with yours truly parping away on cornet, instead of the bass (which I&#x2019;m mostly playing wrong on the later tracks). Here&#x2019;s the link to the new Jazzonics page with the Mp3s to download and upset your dog/cat/granny with: &#xD;&#xD;&lt;b&gt;&lt;a href="perma://BLPageReference/EAC80B79-AFB0-4E46-841A-56F9949DF1B5"&gt;Jazzomics homepage&lt;/a&gt;&lt;/b&gt;&lt;b&gt;&#xD;&#xD;&lt;/b&gt;above picture: detail from Le Clown - Jazz, by Henri Matisse. Jazz Clown? Enough said. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday 9 July 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_Jazomics_-_First_recordings,_released_on_the_web_files/shapeimage_2.png" left="0px" top="0px" width="298px" height="200px"/>
+</content>

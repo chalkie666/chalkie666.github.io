@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:46 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Lyonses and Hooligans&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Lyonses hit Dresden during Euro 2008 </richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Euro 2008 is upon us, and Germany are doing pretty well. Let&#x2019;s not mention England - cough. Abby and Dave came to visit with their scooter racing tots in tow, and we hung out with Dave&#x2019;s brother Keith and his wife Martina, and Grandma Lyons and Gwen (Keith also lives here in Dresden, after coming back from China to be with the wife and kid. I met them all first when we all lived in Rochester MN, and played in bands). One evening we were in the park with the kids while a game was on, and it was all very quiet, not a soul in sight... all watching the game on TV. &#xD;&#xD;Well, quiet until germany scored, then a very odd sound made us all jump. Several thousand people indoors making the same cheering noise at the exact same time makes for unusually startling listening outside. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, June 26, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_The_Lyonses_hit_Dresden_during_Euro_2008_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

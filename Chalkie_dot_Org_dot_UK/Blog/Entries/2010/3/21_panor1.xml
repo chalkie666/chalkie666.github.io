@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:51 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Skiing: Lech / Arlberg, Austria, March 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>That&#x2019;s enough snow already.... no, really!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We arrived in Lech/Arlberg on the sunday night after the 7 hour drive from Dresden with only one motorway U-turn required at the entrance to a tunnel. Oh, and a blown fuse: don&#x2019;t stick metal things into the electrical outlets in the car. &#xD;&#xD;Safely installed at our home for the week, the double olympic champ of ladies combined downhill &#x2019;48 and &#x2019;52, and WM &#x2019;50 run Sportspension Echo, we turned in for the night. &#xD;&#xD;Next morning it was snowing, and pretty hard too. It made visibility very poor at times, and the next day it was even worse, but there was 2 feet of powder to play in! &#xD;&#xD;Day three, we awoke to sunshine and piles of powder. Off piste was fantastic on the muggenrat, and all in all, it was pretty much perfect. The last day we put in the longest hours on the increasingly skied out and heavy snow; temperature rising. &#xD;&#xD;Then come friday morning the huge pile of snow on the car had melted to a manageable and easily removed quantity, and one no longer needed snow chains to get out of the valley (phew!). A fab winter holiday... looking forward to the next. &#xD;&#xD;&lt;a href="perma://BLPageReference/9716B627-76C7-40E2-8DCC-A79756487142"&gt;More photos here&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, March 21, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Oi! Oi! Oi !!!
+Punk Rooooolz !
+We Were
+The FAiRiEs!</title>
+    <link>http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage.html</link>
+    <description>...ummmm click the links at the top of the page to see and hear the FAiRiEs</description>
+    <item>
+      <title>early </title>
+      <link>http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage.html#0</link>
+      <guid isPermaLink="false">da8809bc-2aea-46a6-8eef-0953b868aaab</guid>
+      <enclosure url="http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage_files/Media/diffi011_3/diffi011_3.jpg" length="138939" type="image/jpeg"/>
+      <iphoto:thumbnail>http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage_files/Media/diffi011_3/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage_files/Media/diffi011_3/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;early &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>middle</title>
+      <link>http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage.html#1</link>
+      <guid isPermaLink="false">d6356d20-6b1e-4032-aa81-51f55afd5c86</guid>
+      <enclosure url="http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage_files/Media/diffi011/diffi011.jpg" length="90962" type="image/jpeg"/>
+      <iphoto:thumbnail>http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage_files/Media/diffi011/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage_files/Media/diffi011/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;middle&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>late</title>
+      <link>http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage.html#2</link>
+      <guid isPermaLink="false">878fa099-4c94-4f2c-a106-d2ddc7b8eba7</guid>
+      <enclosure url="http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage_files/Media/DSC00002/DSC00002.jpg" length="69778" type="image/jpeg"/>
+      <iphoto:thumbnail>http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage_files/Media/DSC00002/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://chalkie.selfhost.de/TheFairies/The_Fairies_Homepage_files/Media/DSC00002/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;late&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

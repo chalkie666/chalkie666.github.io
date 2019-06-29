@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;a cold winter... but good snowboarding!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Long time... no blog.... too busy skiing!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I finally got my webpages back under control thanks to a new iWeb that does publish changes instead of only publish whole site... that was putting me off as it took forever to upload the whole shebang. Now its only the changes... much faster and now not getting in my way. &#xD;&#xD;Map above shows my new favourite local ski place. Steeper than Geising with more carpark space, and a nice pub and no electronic ticket barcode scanning stile nonsense to get caught up in with my oil tanker of a snow board. &#xD;&#xD;We&#x2019;ve had consistently below zero temperatures since after Xmas, and plenty of snow, even in the city, so up in the Ore Mountains the skiing conditions have been fab. So long as you remember to put your girlfriend&#x2019;s ski poles in the car, its pretty much a flawless day out. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, February 8, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

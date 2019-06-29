@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog</link>
+    <description>Herein find the thoughts of myself, as and when I happen to have any. Enjoy. </description>
+    <item>
+      <title>long time, no blog... website back up!</title>
+      <link>http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog/Entries/2013/1/31_long_time,_no_blog..._new_webserver_up%21.html</link>
+      <guid isPermaLink="false">0157abe3-7ad7-4bd9-be4a-40a6bdca7dd7</guid>
+      <pubDate>Thu, 31 Jan 2013 09:47:12 +0100</pubDate>
+      <description>I&#x2019;ve been off the blogosphere and my webpages have been down for quite a while after starting my new job in industry. My website got booted off my old employers webservers eventually, fair enough, and thanks guys for allowing my stuff there for so long. Now all my pages are back online at a new home, where I hope to update all the old info, and get my Raleigh Chopper restoration project page all filled in with all the photos and info. Meanwhile, enjoy the nice surfer lady photo above. </description>
+      <iweb:image href="Media/object131.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog/Entries/2013/1/31_long_time,_no_blog..._new_webserver_up%21.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>lots of snow then...</title>
+      <link>http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog/Entries/2010/12/12_IMG_0103_1.html</link>
+      <guid isPermaLink="false">680be402-c6ba-4857-a226-51440acea2af</guid>
+      <pubDate>Sun, 12 Dec 2010 18:54:34 +0100</pubDate>
+      <description>ok... thats enough snow for now. Went snowboarding at Holzhau today, had all the fun! Driving was a bit exciting as the roads were far from clear. Hooray for traction control and anti lock brakes!</description>
+      <iweb:image href="Media/object072.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog/Entries/2010/12/12_IMG_0103_1.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>2nd snow... and lots of it!</title>
+      <link>http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog/Entries/2010/11/30_IMG_0101_1.html</link>
+      <guid isPermaLink="false">61ac9894-7dec-40d5-aa8b-0d9b3b5dd626</guid>
+      <pubDate>Tue, 30 Nov 2010 20:20:09 +0100</pubDate>
+      <description>...and the skis and snowboard are getting waxed, so no action this weekend. But soon... yes... soon!</description>
+      <iweb:image href="Media/object073.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog/Entries/2010/11/30_IMG_0101_1.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>first snow in the city...</title>
+      <link>http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog/Entries/2010/11/24_IMG_0099_1.html</link>
+      <guid isPermaLink="false">121059b1-1b08-4508-bd0d-a255eaced8e3</guid>
+      <pubDate>Wed, 24 Nov 2010 21:00:36 +0100</pubDate>
+      <description>...better get my board waxed! </description>
+      <iweb:image href="Media/object074.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog/Entries/2010/11/24_IMG_0099_1.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Perfect Franglais from Luxembourg</title>
+      <link>http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog/Entries/2010/11/3_Perfect_Franglais_from_Luxembourg.html</link>
+      <guid isPermaLink="false">5a9964e7-e45a-459f-9355-e2b20409fcda</guid>
+      <pubDate>Wed, 3 Nov 2010 20:01:13 +0100</pubDate>
+      <description>It&#x2019;s hard to read... so from the Hotel Am Klouschter room card: &lt;br/&gt;    &#x201C;By respect for nature, reuse the linen of the toilet several times. Alone the linen of toilet deposited in the shower will be given in washing.&#x201D;&lt;br/&gt;&lt;br/&gt;Reverse google translated back into French gives:&lt;br/&gt;    &#x201C;Par respect pour la nature, la r&#xE9;utilisation du linge de la toilette &#xE0; plusieurs reprises. Seul le linge de toilette d&#xE9;pos&#xE9; dans la douche sera donn&#xE9;e &#xE0; laver.&#x201D;&lt;br/&gt;&lt;br/&gt;By some modern miracle, this is only slightly different from the French text on the card... suggesting google translate was used  for the english translation. Thats just cheating!&lt;br/&gt;Well, it amused me for a couple of minutes.</description>
+      <iweb:image href="Media/object075.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog/Entries/2010/11/3_Perfect_Franglais_from_Luxembourg.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://chalkie.selfhost.de/Chalkie_dot_Org_dot_UK/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

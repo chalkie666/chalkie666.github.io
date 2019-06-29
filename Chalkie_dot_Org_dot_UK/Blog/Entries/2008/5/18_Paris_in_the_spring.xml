@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:45 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Paris in the spring</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I just got back from the IEEE ISBE 08 conference in Paris. 1st time I ever visited the french capital, and very nice it was too. I was impressed by their efforts to remove all the dog poo that famously carpets their streets, with an ingenious street irrigation system. I never got mucky shoes once!&#xD;&#xD;Wednesday morning I went for a walk up to Notre Dame and took a few photos. Didn&#x2019;t spot Quasimodo swinging from the bell tower, but that disappointment was allayed by the beauty of the architecture and gardens. Everyone likes a well constructed flying buttress. &#xD;&#xD;The weather was a bit erratic, and I had to resort to my bike anorak at one point, which looked very chic in combination with my shorts, sock and sandals. Who says I&#x2019;ve got no fashion sense? The food was very nice indeed. &#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, May 18, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Paris_in_the_spring_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

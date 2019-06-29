@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:EDCDB267-1710-437E-A0EC-F39B12CA4A4F</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-05-18T21:25:05+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:2438FA83-2823-4001-952B-27BAE844F70D</id>
+  <title>Moykky Page</title>
+  <title xmlns="urn:iweb:">Moykky Page</title>
+  <in-navbar xmlns="urn:iweb:">2438FA83-2823-4001-952B-27BAE844F70D</in-navbar>
+  <link rel="alternate" href="Moykky_Page.html"/>
+  <updated>2014-05-18T21:25:05.001+02:00</updated>
+  <content>Moykky Page</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7DA626AF-FDDF-405A-B32E-9A7D8042FC47</id>
+  <title>Moykky Music</title>
+  <title xmlns="urn:iweb:">Moykky Music</title>
+  <in-navbar xmlns="urn:iweb:">7DA626AF-FDDF-405A-B32E-9A7D8042FC47</in-navbar>
+  <link rel="alternate" href="Moykky_Music.html"/>
+  <updated>2014-05-18T21:25:05.002+02:00</updated>
+  <content>Moykky Music</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C3105FB6-EE90-415A-B128-4641A5B7F2CD</id>
+  <title>Moykky photos</title>
+  <title xmlns="urn:iweb:">Moykky photos</title>
+  <in-navbar xmlns="urn:iweb:">C3105FB6-EE90-415A-B128-4641A5B7F2CD</in-navbar>
+  <link rel="alternate" href="Moykky_photos.html"/>
+  <updated>2014-05-18T21:25:05.003+02:00</updated>
+  <content>Moykky photos</content>
+ </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:54 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&lt;a href="perma://BLPageReference/9B72CBB2-8487-44DC-8B8C-3064227F34BC"&gt;A walk in Dresden Altstadt&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;a href="perma://BLPageReference/9B72CBB2-8487-44DC-8B8C-3064227F34BC"&gt;Autumn sunshine in Dresden old city&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;a href="perma://BLPageReference/9B72CBB2-8487-44DC-8B8C-3064227F34BC"&gt;Nice afternoon for a walk around the sights of the Altstadt! Click anything here to go the pictures page!&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, October 10, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Entry_1_files/shapeimage_2.png" left="0px" top="0px" width="227px" height="300px"/>
+</content>

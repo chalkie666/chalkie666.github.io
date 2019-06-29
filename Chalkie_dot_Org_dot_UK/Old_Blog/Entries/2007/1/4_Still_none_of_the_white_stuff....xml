@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140701" date="2014-07-01 20:29:35 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Still none of the white stuff...</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I got back from christmas and new year in blighty to find there was still no snow here in Finland. I&#x2019;m beginning to wonder if there will be any this winter, and if bringing my board here was a total waste of time. I reckon it must be global warming (ok, of course I can&#x2019;t prove that...) &#xD;&#xD;On another topic, nice to see they chose to hang Saddam on a major muslim holy day, just to cause as much trouble as possible, then also let people take videos of the event on their phones and send them around the internet. Makes you wonder about the competence of the administration there, and as usual the coalition governments are responsible the state of that.&#xD;&#xD;In fact, hanging him was a daft idea anyway... surely it would have been better to have him building schools in kurdistan for the rest of his life instead? Another martyr made, more revenge killing to follow. What a mess.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday 5 January 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_Still_none_of_the_white_stuff..._files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

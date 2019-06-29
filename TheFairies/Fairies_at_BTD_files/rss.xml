@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>The FAiRiEs @ Board To Death </title>
+    <link>http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD.html</link>
+    <description>The FAiRiEs gig at our pals THE SUPERTROOPERS skate and snow board shop: Board To Death Sports, back in the day when it was run by the brothers Lyons and was often opened up for local bands to gig at. We nearly knew how to play by then, and put on a good show, despite Dan’s amplifier cutting out... </description>
+    <item>
+      <title>DSC00001</title>
+      <link>http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD.html#0</link>
+      <guid isPermaLink="false">7446d759-b34d-458e-90a8-e93bf7a797fd</guid>
+      <enclosure url="http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD_files/Media/DSC00001/DSC00001.jpg" length="76767" type="image/jpeg"/>
+      <iphoto:thumbnail>http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD_files/Media/DSC00001/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD_files/Media/DSC00001/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC00001&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC00002</title>
+      <link>http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD.html#1</link>
+      <guid isPermaLink="false">f137fc94-db61-437d-8ac3-fe1e90ecea99</guid>
+      <enclosure url="http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD_files/Media/DSC00002/DSC00002.jpg" length="69778" type="image/jpeg"/>
+      <iphoto:thumbnail>http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD_files/Media/DSC00002/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD_files/Media/DSC00002/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC00002&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>BTDbackgrnd</title>
+      <link>http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD.html#2</link>
+      <guid isPermaLink="false">26186e58-8c4f-406b-82f4-46963749d27e</guid>
+      <enclosure url="http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD_files/Media/BTDbackgrnd/BTDbackgrnd.jpg" length="52929" type="image/jpeg"/>
+      <iphoto:thumbnail>http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD_files/Media/BTDbackgrnd/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://chalkie.selfhost.de/TheFairies/Fairies_at_BTD_files/Media/BTDbackgrnd/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;BTDbackgrnd&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

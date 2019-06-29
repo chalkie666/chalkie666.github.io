@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:44 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Tour de Pillnitz 2008</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I announced my retirement from playing hockey today at the annual bicycle trip pilgrimage to the springy grass field at Pilniz. I celebrated by umpiring for the first time since I finished my PhD in 1999. Didn&#x2019;t have to send any one off, but the Pilnitz goalie did get a bit feisty and wanted to ask me which rule I had applied in my decision to award ESV Dresden a penalty corner. I informed him that questions regarding umpiring decisions were not to be tabled : &#x201C;Keine fragen!&#x201D;. The plucky home team lost out to the superior skills of the visitors by many goals and also failed to score, but it was a pretty reasonable grass game all the same. Even if they did play with a nasty plastic ball; wasn&#x2019;t even a dimple. &#xD;&#xD;Similar to last year, we sat by the pitch under the gaze of the vineyard covered hills, with beers and sausages of course, until it got dark. Then rode our bikes back to the ferry and along the banks of the river Elbe, visiting the beer gardens on the way. All in all, a very pleasant friday evening out in the countryside. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, May 23, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Tour_de_Pillnitz_2008_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140701" date="2014-07-01 20:30:13 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;My Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>long time, no blog... website back up!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I&#x2019;ve been off the blogosphere and my webpages have been down for quite a while after starting my new job in industry. My website got booted off my old employers webservers eventually, fair enough, and thanks guys for allowing my stuff there for so long. Now all my pages are back online at a new home, where I hope to update all the old info, and get my Raleigh Chopper restoration project page all filled in with all the photos and info. Meanwhile, enjoy the nice surfer lady photo above. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, January 31, 2013&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_long_time,_no_blog..._website_back_up%21_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

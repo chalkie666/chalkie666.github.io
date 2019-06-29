@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140701" date="2014-07-01 20:29:57 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Some benzocaine, a microscope, &#xD;2 crossed polarisers &#xD;and an iPhone camera...&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Teaching, phase 1, done...</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We just finished our week long microscopy course here at MPI-CBG with Peter Evennett (old school microscopist from the RMS) as the main man again. &#xD;&#xD;All went swimmingly, so we were told by the students, although I was annoyed by a flickering webcam ruining one of the demos, and having to give a lecture at 9am. That&#x2019;s not the time of day I am at my most charming and entertaining. It was remarked upon that my afternoon lecture was more animated, despite the more dry content. No surprise there, ask my Mum. &#xD;&#xD;We had the usual trials teaching the students how to do basic microscopy, and also had some fun with some crystals of benzocaine, a pair of polarisers, a microscope and my iPhone camera. Much like you can with binoculars or a telescope, you can stick pretty much any old camera onto the eyepiece of a microscope and get a fairly good picture of what your eyes see down it. After all, your eyes are cameras, and webcams and phone cameras work pretty  much the same as your eyes, optically speaking. &#xD;&#xD;One of the students, Madina, managed to take these two pictures, by polarised light microscopy, of benzocaine crystals, with a steady hand and my iPhone. The different colours come from the fact that the crystals are birefringent (look it up in wikipedia), so between two crossed polarisers, pretty colour patterns make it through to the eye piece because different colours have their polarisation rotated by different amounts (it&#x2019;s all about optical dispersion, you know. See Newton and his glass prism making a rainbow, and all that). The colour depends on the thickness of the crystal, and what orientation it is in respective to the polarisation angle of the light. &#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;GEEEEEK!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, October 3, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Teaching,_phase_1,_done..._files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

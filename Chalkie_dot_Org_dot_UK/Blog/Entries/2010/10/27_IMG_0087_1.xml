@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:55 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Road Safety, done right.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Road safety: Done right.</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Visiting Mondorf les bains / Bad Mondorf, Luxembourg, for the imageJ conference, I was in the park for a stroll, where I found what looked like tennis courts from a distance, but no! It was a kids road safety course, with signs, traffic lights, painted lines... the whole works! I would have loved to have been able to ride my chopper through that, following instruction from PC Plod.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, October 27, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="27_IMG_0087_1_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

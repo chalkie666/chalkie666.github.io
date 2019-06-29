@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:57 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Curry restaurants have nowt on this lot...&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Perfect Franglais from Luxembourg</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>It&#x2019;s hard to read... so from the Hotel Am Klouschter room card: &#xD;    &#x201C;By respect for nature, reuse the linen of the toilet several times. Alone the linen of toilet deposited in the shower will be given in washing.&#x201D;&#xD;&#xD;Reverse google translated back into French gives:&#xD;    &#x201C;Par respect pour la nature, la r&#xE9;utilisation du linge de la toilette &#xE0; plusieurs reprises. Seul le linge de toilette d&#xE9;pos&#xE9; dans la douche sera donn&#xE9;e &#xE0; laver.&#x201D;&#xD;&#xD;By some modern miracle, this is only slightly different from the French text on the card... suggesting google translate was used  for the english translation. Thats just cheating!&#xD;Well, it amused me for a couple of minutes.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, November 3, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Perfect_Franglais_from_Luxembourg_files/shapeimage_2.png" left="0px" top="0px" width="435px" height="259px"/>
+</content>

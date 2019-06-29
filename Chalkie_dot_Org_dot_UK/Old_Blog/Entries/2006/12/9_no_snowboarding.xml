@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140701" date="2014-07-01 20:29:33 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>no snowboarding</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Today I awoke sans hangover (since the lab christmas party was on thursday), looking forward to a nice weekend of snowboarding. I then realised that the weather here in central Finland is currently closely resembling that of a typical yorkshire winter (wet, windy and dark), and is critically lacking in snow. This didn&#x2019;t cheer me up, and the sight of my unwaxed board in the corner and my still unused this season snowboard boots in the shoe rack only strained my mood further. There should be lots of snow here by now, and the lack of it, added to the minuscule daylight this far north at this time of year, made for an extremely gloomy day outside. No shortage of precipitation, just the wrong kind. Underwater snowboarding (picture above, apparently a recent russian craze) would have been a more feasible pastime today with the rapidly filling lakes. Maybe I&#x2019;ll dig out my snorkel and try that tomorrow. By the time I went shopping for lasagna ingredients it was already pitch black. There must be no god, otherwise there would be snow, what little light there is would bounce around off it in a rather pleasingly seasonal manner, and I would be shooting downhill on a plank of wood and not writing this. Is it global warming? Maybe it&#x2019;s just crappy weather, but SNOW!!! PLEASE SNOW!!!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday 9 December 2006&lt;/b&gt;</richText>
+  </textBox>
+</content>

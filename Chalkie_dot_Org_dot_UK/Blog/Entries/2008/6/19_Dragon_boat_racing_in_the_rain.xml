@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140518" date="2014-05-18 19:17:46 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Torrential Rain / Donnert und Blitz&#xD;and Dragon Boats&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Dragon boat racing in the rain</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Woke up early and biked up the river to the Blaues Wunder bridge for the annual Elebehangfest Dragon Boat Racing contest. Waking too early after a night of beers rarely leaves me feeling in top shape, but I managed to make it there early, and without redecorating the pavements. We had one practice session a week or so before, and the bloke steering said we did ok, so the mood was fairly confident, knowing we were in the amateur all comers class, up against grannies and other mixed randoms.&#xD;&#xD;After a bit of hanging about and much talk of tactics and who should sit where, power in the middle or at the front, and weight distribution scenarios, we mounted our trusty steed, and paddled up the river to the start line. Soon enough the hooter went, and we were off, up against 2 or 3 other boats. After a strong start, we maintained speed well through the mid section, with perhaps a hint of fade towards the end, coming in 3rd ish. Not bad considering we actually started 3 or 4 meters behind the others having failed to cheat properly at the start line like they did. Job done and all quite happy and relatively dry, we dismounted and had a beer and a bit of food. All very pleasant!&#xD;&#xD;Then came the rain. In buckets. A couple of very impressive thunder showers passed over while others were still racing through the torrential downpour. Rarely have I haver seen it rain that hard. It was pretty impressive. We took shelter in a cafe garden under the big beer garden umbrellas and laughed at the poor buggers who were still out on the water during the cloud bursts. &#xD;&#xD;Overall impression: Dragon boat racing is lots of fun, even for beginners, but less so during heavy rain. Elbehangfest was ok, but not a patch on Bunte Republik Neustadt. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, June 19, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Dragon_boat_racing_in_the_rain_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

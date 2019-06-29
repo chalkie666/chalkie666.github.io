@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Chile 2000</title>
+    <link>http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000.html</link>
+    <description>Over the New Year period 1999-2000 Suzie and I went on a tour of Chile. That's the long skinny country on the pacific coast of south america. We saw tons of impressive scenery and regional wildlife, and visited several national parks. I took my fancy digital camera with me to record the views, animals and other stuff so I could put lots of pretty pics of it all for you to see, so you can get an idea of what we did where, and what it looked like. So delve in and enjoy!!! Click the pictures below (after the 1st three), to go to the pages on each place we went. </description>
+    <item>
+      <title>Jan2401</title>
+      <link>http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000.html#0</link>
+      <guid isPermaLink="false">9e1a6838-3946-4e37-ba7c-92738628115b</guid>
+      <enclosure url="http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000_files/Media/Jan2401/Jan2401.jpg" length="96943" type="image/jpeg"/>
+      <iphoto:thumbnail>http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000_files/Media/Jan2401/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000_files/Media/Jan2401/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Jan2401&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Jan2402</title>
+      <link>http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000.html#1</link>
+      <guid isPermaLink="false">187a0e37-76b5-4071-a39c-728c8ad0255f</guid>
+      <enclosure url="http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000_files/Media/Jan2402/Jan2402.jpg" length="100204" type="image/jpeg"/>
+      <iphoto:thumbnail>http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000_files/Media/Jan2402/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000_files/Media/Jan2402/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Jan2402&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Jan2403</title>
+      <link>http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000.html#2</link>
+      <guid isPermaLink="false">dc93b0eb-344c-46d7-a273-a2bd4910f6ab</guid>
+      <enclosure url="http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000_files/Media/Jan2403/Jan2403.jpg" length="88377" type="image/jpeg"/>
+      <iphoto:thumbnail>http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000_files/Media/Jan2403/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://chalkie.selfhost.de/Dan_in_Chile_2000/Chile2000_files/Media/Jan2403/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Jan2403&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

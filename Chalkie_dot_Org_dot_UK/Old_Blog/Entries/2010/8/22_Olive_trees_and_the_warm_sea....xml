@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140701" date="2014-07-01 20:30:03 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Corfu Summer 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Olive trees and the warm sea...&#xD;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We just got back from a week of snorkeling and eating fried cheese in Corfu, which was very relaxing and warm. Much de-stressed and very happy with that. &#xD;&#xD;Holiday Tip: &#xD;Don&#x2019;t go snorkeling with your lady friend's compact digital camera in your pocket. You might be able to rescue the photos off the memory card (we did thanks to Silke&#x2019;s bro Christian and some contact cleaner) but the camera will be toast (yes, It was... i took it apart and it was full of corrosion... totally boned). &#xD;&#xD;For more photos, click on the photo above or Corfu 2010 at the top of the page.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, August 22, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="02B0C849-FF6D-4C0F-AA5C-4987A3B1BBC8">
+  <lastEdited clientType="local-build-20140701" date="2014-07-01 20:29:56 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunrise and Swifts&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Sunrise over the Elbe at Albertbr&#xFC;cke, Dresden</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>This morning I woke up very early for no apparent reason, then realised it was just before dawn, so if I was quick I could make it down to the river to see the sun rise over its rippled waters. An added bonus were the swifts who were already up and at it. Bit of an interesting time for me, philosophically, at the moment, and it was pretty cool to do something I have very rarely ever done. A good time to take stock and look at things in new light. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, July 28, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Sunrise_over_the_Elbe_at_Albertbrucke,_Dresden_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>
