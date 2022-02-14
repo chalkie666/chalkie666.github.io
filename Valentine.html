@@ -1,13 +1,13 @@
-<!--Copyright to Shen Huang, you can reach me out at shenhuang@live.ca-->
+<!--Copyright to Shen Huang, you can reach me out at shenhuang@live.ca  Modified by Dan White 2022-->
 
 <!DOCTYPE html>
 <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
 <html>
 	<head>
-		<title>HEART DEMO</title>
+		<title>VALENTINE</title>
 		<style>
 		body	{
-			background-color : #ffceed;
+			background-color : #FFFF00;
 		}
 		@keyframes heartfade {
 			0% {
@@ -25,10 +25,10 @@
 		.heart:before,
 		.heart:after {
 			content : "";
-			background-color : #fc2a62;
+			background-color : #ff0000;
 			position : absolute;
-			height : 30px;
-			width : 45px;
+			height : 45px;
+			width : 60px;
 			border-radius : 15px 0px 0px 15px;
 		}
 
@@ -43,17 +43,18 @@
 		</style>
 	</head>
 	<body>
-		
+		<H1>I love you, my Miss Sacandinavia cat bat!<H1!/>	
+		<p> Where are my kisses?!</p>
 	</body>
 	<script>
 		
 		var brd = document.createElement("DIV");
 		document.body.insertBefore(brd, document.getElementById("board"));
 
-		const duration = 3000;
-		const speed = 0.5;
+		const duration = 1000;
+		const speed = 0.8;
 		const cursorXOffset = 0;
-		const cursorYOffset = -5;
+		const cursorYOffset = 150;
 
 		var hearts = [];
 		
